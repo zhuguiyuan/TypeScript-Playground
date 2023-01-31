@@ -1,0 +1,4 @@
+node_modules/
+
+# We don't need to lock version so we ignore the lock file.
+package-lock.json
